@@ -4,7 +4,7 @@
 
 ## Summary
 - Maintenance = three things: (1) **get the water out** (leave the door open, wipe the gasket), (2) **stop feeding the mildew** (HE detergent, correct — usually smaller — amount), (3) **flush the system periodically** (Clean Washer cycle, pump filter).
-- **HE detergent, less than you think:** HE-labeled only (non-HE suds the machine can't rinse → residue → odor), and most people overdose — a normal front-load load is **1–2 tablespoons**, not the cap fill line.
+- **HE detergent, less than you think:** HE-labeled only (non-HE suds the machine can't rinse → residue → odor), and most people overdose — follow the load-size chart on *your* bottle (concentration varies 2X/4X/8X), which for a normal front-load load is usually **~1–2 tablespoons**, not the cap fill line.
 - **Leave the door cracked** after every load (~overnight). Two seconds; prevents most odor. Don't latch closed between loads.
 - **Wipe the [[GLOSSARY#Door boot / gasket (washer)|door boot/gasket]] weekly** — its folds trap water, hair, lint, coins and are the #1 mildew spot. Black specks = early mildew → dilute bleach (1:10) now. Established mildew permanently stains rubber; prevention >> cure.
 - **Monthly:** clean the dispenser drawer (crust → bacteria + clogged ports) and run the [[GLOSSARY#Clean Washer cycle|Clean Washer cycle]] — hot, high-water, no-clothes flush of drum/gasket/passages. **1 affresh® tablet directly in the drum** (not the dispenser; no detergent for this cycle).
@@ -31,7 +31,7 @@ Failure mode is **odor/mildew** (annoying, not dangerous like the dryer's fire r
 
 ### 1. HE detergent — less than you think
 - **HE-labeled detergent only.** Non-HE → excess suds machine can't rinse → residue → odor.
-- **Most people overdose.** Modern HE is concentrated (2X/3X). Normal front-load load = **1–2 tablespoons**, not the cap fill line (that's calibrated for worst-case heavy soil).
+- **Most people overdose.** Modern HE is concentrated (2X/4X/8X) — use the bottle's load-size chart, not the cap fill line (that's calibrated for worst-case heavy soil). A normal front-load load is usually ~1–2 tablespoons.
 - Over-dosing causes same sudsing/odor problems as non-HE.
 
 ### 2. Leave the door open — every load

@@ -25,7 +25,7 @@ Dust on condenser = insulation = [[GLOSSARY#Compressor (refrigerator)|compressor
 ## Task 1 — Clean condenser coils
 
 ### How often (honest answer)
-Manufacturer guidance: every 3–6 months. Reality ([Wirecutter](https://www.nytimes.com/wirecutter/guides/cleaning-your-fridge-coils/)): many modern fridges have sealed/front-accessible condensers that collect little dust.
+Cadence varies by situation (see table below): exposed rear coils or a dusty home/pets → every ~6 months; sealed/front-accessible condensers in a clean home → every 12–24 months. ([Wirecutter](https://www.nytimes.com/wirecutter/guides/cleaning-your-fridge-coils/): many modern fridges have sealed condensers that collect little dust.)
 
 | Situation | Cadence |
 |---|---|

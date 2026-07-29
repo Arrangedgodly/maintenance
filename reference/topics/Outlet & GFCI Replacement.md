@@ -55,12 +55,14 @@ GFCI even protects ungrounded two-prong circuits — it detects a hot/neutral im
 | **LOAD** (optional) | Cable(s) going downstream | Every outlet after this one ([[GLOSSARY#Downstream protection|downstream protection]]) |
 
 ### Identify which cable is line vs load
-With breaker ON, old receptacle removed, wires capped/separated:
-1. Non-contact tester / multimeter → find which cable's black is hot. **That's LINE.**
-2. Other cable (not hot) = LOAD (runs onward to next outlet).
-3. **Breaker OFF, verify dead** before proceeding.
+**Do this with wires capped and separated — never with exposed, loose conductors energized.**
+1. **Breaker OFF, verify dead.** Disconnect old receptacle, photograph first.
+2. Cap each cable's black wire in its own wire nut; keep whites separated too.
+3. **Briefly energize** (breaker ON). Non-contact tester → the cable whose black reads hot is **LINE**.
+4. **Breaker OFF, verify dead** again before landing any wire.
+5. Other cable (not hot) = LOAD (runs onward to next outlet).
 
-> ⚠️ Don't guess. Swapped line/load → GFCI may power up but won't protect correctly, won't reset, or test button behaves wrong.
+> ⚠️ Don't guess. Swapped line/load → GFCI may power up but won't protect correctly, won't reset, or test button behaves wrong. If you can't identify LINE confidently with capped wires, use a plug-in circuit tracer (breaker off) — or call an electrician. Never probe live, loose conductors.
 
 ### Wiring
 1. Breaker OFF, verify dead.
@@ -88,7 +90,7 @@ With breaker ON, old receptacle removed, wires capped/separated:
 **GFCI provides shock protection even without a ground wire** — detects hot/neutral current imbalance, not ground. This is the cheapest major safety upgrade for older homes. Label the receptacle "No Equipment Ground" (stickers in the box) — equipment still isn't grounded, but shock protection is real.
 
 ## Where GFCI required (prioritize adding if missing)
-Bathrooms, kitchens (all countertop receptacles), garages, outdoors, laundry, unfinished basements, crawl spaces, within 6 ft of any sink. Find first outlet on circuit (closest to panel), install GFCI there with downstream on LOAD → whole circuit protected.
+Per NEC 210.8 (2020/2023): bathrooms, kitchens (all receptacles serving countertops + the dishwasher/disposal circuit), garages, outdoors, laundry, unfinished basements, crawl spaces, and accessory buildings. Find first outlet on circuit (closest to panel), install GFCI there with downstream on LOAD → whole circuit protected. (Pre-2020 code used a "within 6 ft of sinks" trigger; current code is broader.)
 
 ## DIY / Pro boundary
 | DIY | Call electrician |

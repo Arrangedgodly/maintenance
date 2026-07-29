@@ -183,7 +183,7 @@ A type of pipe connection (nut + ring/ferrule + seat) used on supply lines to fi
 Minerals (mostly calcium and magnesium) that settle out of heated water and accumulate at the bottom of a water heater tank. Forms a layer that insulates the water from the heat source — wasting energy on gas heaters, risking element burnout on electric ones — and eventually clogs the drain valve. Flushed annually.
 
 ### Anode rod (sacrificial anode)
-A long metal rod (magnesium, aluminum, or zinc-aluminum) suspended inside a water heater tank. It corrodes *instead of* the tank lining — sacrificing itself so the tank doesn't. When it's consumed, the tank starts corroding. Inspected annually, replaced when &gt;50% gone (typically every 3–5 years). The single biggest factor in how long a tank lasts.
+A long metal rod (magnesium, aluminum, or zinc-aluminum) suspended inside a water heater tank. It corrodes *instead of* the tank lining — sacrificing itself so the tank doesn't. When it's consumed, the tank starts corroding. Inspected annually, replaced when &gt;50% gone (cadence depends on type and water chemistry — magnesium ~1–3 yr, aluminum ~3–5 yr). The single biggest factor in how long a tank lasts.
 
 ### Dip tube
 The pipe inside a water heater that delivers cold incoming water to the *bottom* of the tank, pushing hot water out the top. If it breaks or disintegrates, cold water short-circuits straight to the outlet — you get lukewarm showers despite a "full" tank of hot water.
@@ -277,7 +277,7 @@ A meter that measures voltage, current, and resistance (and sometimes continuity
 The thickness of the wire, given in American Wire Gauge numbers. Lower number = thicker wire = more current capacity. **14 AWG** is rated for 15A circuits; **12 AWG** for 20A circuits. Never put a higher-amperage breaker on a smaller-gauge wire — that's how fires start.
 
 ### GFCI (Ground Fault Circuit Interrupter)
-A device (receptacle or breaker) that trips when it senses a mismatch between the current flowing out on hot and returning on neutral — meaning current is leaking somewhere it shouldn't (often through a person). **Protects people from shock.** Required by NEC in wet/damp locations: bathrooms, kitchens, garages, outdoors, laundry, unfinished basements, within 6 ft of sinks.
+A device (receptacle or breaker) that trips when it senses a mismatch between the current flowing out on hot and returning on neutral — meaning current is leaking somewhere it shouldn't (often through a person). **Protects people from shock.** Required by NEC 210.8 (2020/2023) in: bathrooms, kitchens (all countertop receptacles + dishwasher/disposal circuits), garages, outdoors, laundry, unfinished basements, crawl spaces, accessory buildings. (Pre-2020 code used a "within 6 ft of sinks" trigger; current code is broader.)
 
 ### AFCI (Arc Fault Circuit Interrupter)
 A device (breaker or receptacle) that detects the electrical signature of a dangerous arc — the sparking that causes electrical fires. **Protects property from fire.** Required by NEC on most 120V, 15A/20A branch circuits in living areas (bedrooms, living rooms, kitchens, etc.). Not required in bathrooms, garages, or outdoors. Modern kitchens require both AFCI and GFCI.
@@ -403,7 +403,7 @@ The metal or membrane flashing that directs water <em>over and away from</em> th
 ## Garage door
 
 ### Torsion spring
-The heavy coiled spring mounted on a horizontal shaft directly above the garage door opening. Counterbalances the door's weight so the opener (or a person) can lift it. Under enormous tension — adjustment requires winding bars and precise technique. **Strictly pro-only: stored energy can cause serious injury or death.** Lifespan ~15,000–20,000 cycles.
+The heavy coiled spring mounted on a horizontal shaft directly above the garage door opening. Counterbalances the door's weight so the opener (or a person) can lift it. Under enormous tension — adjustment requires winding bars and precise technique. **Strictly pro-only: stored energy can cause serious injury or death.** Standard lifespan ~10,000 cycles (one cycle = one full open/close); upgraded/oil-tempered springs run 15,000–20,000.
 
 ### Extension spring
 The older-style springs mounted along the horizontal tracks on either side of the door. Stretch to store energy as the door closes. Generally shorter-lived than torsion springs (~10,000 cycles) and more dangerous when they break — they can snap violently across the garage. Should always have a safety cable running through them. Also pro-only.
@@ -508,7 +508,7 @@ The pipe carrying pumped water from the sump pit, up and out of the house, to a 
 A secondary pump installed in the same pit, powered by a 12V deep-cycle battery kept on charge. Activates if the primary pump fails OR if power is lost. Covers two failure modes a single pump can't. Battery needs replacement every 3–5 years.
 
 ### Water-powered backup
-A secondary pump driven by municipal water pressure (a venturi/ejector) rather than electricity. Runs indefinitely as long as city water is available — unlimited runtime in a long outage. Only viable on municipal water (not wells), and uses ~1 gallon of city water per gallon pumped.
+A secondary pump driven by municipal water pressure (a venturi/ejector) rather than electricity. Runs indefinitely as long as city water is available — unlimited runtime in a long outage. Only viable on municipal water (not wells), and inherently wasteful: uses **~2 gallons of city water per gallon pumped** (varies with supply pressure).
 
 ## Dishwasher
 

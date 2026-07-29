@@ -4,7 +4,7 @@
 
 ## Summary
 - The supply/drain split: [[Drain & Sewer Clog Prevention|drain]] failure is gradual and smelly; **supply** failure is a pressurized leak or burst — fast, flooding, expensive. Supply-side maintenance = prevent bursts (hoses) + stop water fast when one happens (valves).
-- **Skill 1 — replace rubber with braided stainless.** [[GLOSSARY#Rubber supply hose|Rubber]] hoses (3–5 yr, sudden-rupture failure) → [[GLOSSARY#Braided supply line (braided stainless)|braided stainless]] (~1,500 PSI burst rating, visible fraying first). Auto-shutoff braided hoses (~$35) sense a burst and slam closed — worth it if the washer sits over a finished space. Hand-tighten + ¼ turn; label install date; replace every 5 years.
+- **Skill 1 — replace rubber with braided stainless.** [[GLOSSARY#Rubber supply hose|Rubber]] hoses (3–5 yr, sudden-rupture failure) → [[GLOSSARY#Braided supply line (braided stainless)|braided stainless]] (far higher burst resistance than rubber — visible fraying is the warning sign). Auto-shutoff braided hoses (~$35) sense a burst and slam closed — worth it if the washer sits over a finished space. Hand-tighten + ¼ turn; label install date; replace every 5 years.
 - **Skill 2 — find and test the [[GLOSSARY#Main shut-off valve|main shut-off valve]].** When something floods, first move = stop all water to the house. Be able to do it in 30 seconds, in the dark. Tag it; tell everyone; photo it.
 - Identify the valve: a [[GLOSSARY#Ball valve|ball valve]] (lever, ¼-turn, ∥ = open) is modern/reliable; a [[GLOSSARY#Gate valve|gate valve]] (round wheel, many turns) is older and **prone to seizing** — worth a pro-swap to ball eventually.
 - **Exercise every valve every 6 months** ([[GLOSSARY#Exercising a valve|exercising a valve]]). Close fully, verify a faucet goes dry, reopen **slowly** to avoid [[GLOSSARY#Water hammer|water hammer]]. Repeat for every fixture valve.
@@ -29,7 +29,7 @@ Supply-side maintenance = two things: **prevent bursts** (hoses) and **stop wate
 ### Why braided
 | | Rubber | Braided stainless |
 |---|---|---|
-| Burst resistance | Low — fails with age | ~1,500 PSI |
+| Burst resistance | Low — fails with age | High (varies by maker; far exceeds rubber) |
 | Lifespan | 3–5 yrs before risky | Longer; still inspect |
 | Failure mode | Sudden rupture | Visible fraying first (usually) |
 | Cost | ~$8 | ~$15–25 (auto-shutoff ~$35) |

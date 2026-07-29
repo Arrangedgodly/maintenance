@@ -73,7 +73,7 @@ If 2+ apply → the next step isn't more augering, it's a **camera inspection** 
 
 ### Prevention after a clearing
 1. **Behavior change** — never-flush rules above. Alone resolves many recurring clogs.
-2. **Annual [[GLOSSARY#Foaming root killer|foaming root killer]]** — copper sulfate or dichlobenil, down a toilet, once/year, after a clearing. Kills root tips before they grow. Preventive, not a substitute for clearing.
+2. **Annual [[GLOSSARY#Foaming root killer|foaming root killer]]** — a foaming copper-sulfate or dichlobenil-based product (e.g., RootX), down a toilet, once/year, after a clearing. Kills root tips before they grow. Preventive, not a substitute for clearing. (Active ingredients in consumer root killers have shifted over the years — read the label.)
 3. **Camera inspection every 1–2 years** if recurring roots.
 
 > ⚠️ **Aggressive recurring roots:** the real fix is pipe repair — trenchless lining (CIPP) or PVC replacement of the damaged section. Pro-only, not cheap, but the actual cure. Repeatedly augering every few months is symptom treatment, not disease treatment.

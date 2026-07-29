@@ -46,9 +46,9 @@ Two threats need two different alarms: [[GLOSSARY#Ionization smoke alarm|ionizat
 | Avoid | Why |
 |---|---|
 | Within 10 ft of cooking | Nuisance alarms |
-| Within 3 ft of bathroom door | Steam false-alarms |
+| Within ~10 ft of a bathroom with tub/shower | Steam false-alarms (Kidde/First Alert) |
 | In the garage | Exhaust/dust — use heat detector |
-| Within 4" of wall-ceiling corner | Dead-air space — smoke may not reach |
+| Within 4" of wall-ceiling corner | Dead-air space (older guidance; the 4-inch rule was removed from NFPA 72 in 2016 — current hard rule is within 36" of a paddle-fan blade tip and >36" from supply/return registers) |
 | Near windows/doors/fans/registers | Air currents push smoke away |
 | In vaulted ceiling peak/nook | Dead-air trap — 3 ft from peak |
 
@@ -75,8 +75,8 @@ When one triggers, **all sound.** Critical for sleeping occupants far from the s
 | Detector | Replace at |
 |---|---|
 | Smoke alarm | **10 years** from manufacture date (stamped on back) |
-| CO alarm | **~7 years** (sensor degrades faster — check unit rating) |
-| Combination | **Shorter of the two** (typically 7 yr) |
+| CO alarm | **7–10 years** (varies by manufacturer — check the date stamped on the unit, UL 2034 sets the replacement date per-maker) |
+| Combination | **Shorter of the two** — check the stamp |
 
 > ⚠️ **End-of-life chirp ≠ low battery.** CO alarms chirp at end-of-life almost identically to low-battery. New battery doesn't fix it. Check the date — 7+ yr = replace unit.
 

@@ -45,7 +45,7 @@ Grease + detergent residue coat interior, heater, passages.
 2. Cleaner choice:
    - **Citric acid powder** (~$5, 2–3 tbsp loose in tub) — **best for hard water**; dissolves mineral scale
    - Dishwasher cleaner tablet (affresh, Finish)
-   - White vinegar (2 cups in bowl on bottom rack — not loose; degrades seals over time)
+   - White vinegar (2 cups in bowl on bottom rack — not loose; some manufacturers advise against regular vinegar use, so citric acid is the safer periodic cleaner)
 3. Hottest cycle (Heavy / Pots & Pans / dedicated Clean cycle).
 4. Leave door cracked after.
 

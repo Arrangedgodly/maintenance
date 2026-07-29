@@ -86,7 +86,7 @@ $2,500 / $2,700 / $4,500 → the $4,500 may be bidding different scope (better m
 ### Payment schedule — milestone, never large upfront
 | Pay | Why / red flag |
 |---|---|
-| **Deposit ≤10–30%** or materials cost (state law caps vary; CA: 10% or $1k) | 50%+ upfront = funding another project with your money |
+| **Deposit ≤10–30%** or materials cost (state law caps vary; CA: 10% or $1,000, **whichever is less** — so on a $5k job the cap is $500, not $1k) | 50%+ upfront = funding another project with your money |
 | **Progress payments tied to milestones** | "30% rough-in, 30% drywall, 30% inspection, 10% punch-list." Pay as work demonstrably done. |
 | **Final 10–20% only after satisfied + [[GLOSSARY#Lien waiver|lien waivers]] collected** | Final payment is leverage for punch list. Waivers prevent subcontractor liens. |
 
