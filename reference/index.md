@@ -23,4 +23,4 @@ A reference library of preventative maintenance and basic repair notes for a res
 - Home envelope: [[Exterior & Roof Inspection]] · [[Winterization]] · [[Drywall Patching]] · [[Smoke & CO Detectors]] · [[Garage Door Maintenance]]
 - Meta: [[Finding & Vetting a Pro]] · [[Home Records & Documentation]] · [[Supply Lines, Hoses & Shut-off Valves]]
 
-All notes live under [`/notes`](/notes). Hands-on tasks are tracked in [[ACTION-ITEMS]] (private to the author's vault).
+All topics live under [`/topics`](/topics). Hands-on tasks are tracked in [[ACTION-ITEMS]] (private to the author's vault).
