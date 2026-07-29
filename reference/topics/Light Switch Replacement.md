@@ -45,8 +45,8 @@ Three terminals: **one common + two travelers.**
 | Screw | Color | Wire |
 |---|---|---|
 | Common | **Dark** | Switch 1: always-hot from panel. Switch 2: switched-hot to light. |
-| Traveler 1 | Brass | Usually red |
-| Traveler 2 | Brass | Usually white (re-identified black tape) |
+| Traveler 1 | Brass | Often red, but **test — never assume by color** |
+| Traveler 2 | Brass | Often white, but white is frequently the common (especially at the load-end switch) — **test — never assume by color** |
 | Ground | Green | Bare/green |
 
 ### Procedure
@@ -59,7 +59,7 @@ Three terminals: **one common + two travelers.**
 
 > ⚠️ **Classic failure:** common on a traveler screw → circuit works but only from one location, or state depends on other switch. **If 3-way only works from one side = common on wrong screw.**
 
-> Lost track of common? Multimeter (power on, carefully): always-hot regardless of switch position = common at switch 1. Wire to fixture = common at switch 2. When in doubt, call electrician.
+> Lost track of common? The safest path is to identify it with the breaker off using a plug-in circuit tracer or by tracing the cable — never assume wire color (white is frequently the common, especially at the load-end switch). If you can't identify common confidently de-energized, **call an electrician** rather than probing a live 3-way box.
 
 ## Type 3 — [[GLOSSARY#Dimmer switch (slider)|Dimmer / slider]]
 Adds two checks beyond standard switch: **compatibility** and **neutral.**

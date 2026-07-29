@@ -75,7 +75,7 @@ The **3-use rule**: use a tool more than 3×/yr → buy; one-off project → ren
 
 ### HVAC
 - 5/16" nut driver (~$8) — Carrier cabinet screws
-- Fin comb, 25 FPI (~$10) — Carrier 24SPA
+- Fin comb, 20 FPI (~$10) — Carrier 24SPA
 - Wet/dry shop vac (~$50) — condensate, drains, coils
 
 ### Drywall + general

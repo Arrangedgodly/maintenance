@@ -28,6 +28,7 @@ The annual deep tasks: flush the water heater and inspect the [[GLOSSARY#Anode r
 - [ ] Clean dryer lint screen deeply (soapy water) ([[Dryer Maintenance|dryer]])
 - [ ] Wipe washer gasket; leave door cracked ([[Washer Maintenance|washer]])
 - [ ] Press TEST on every smoke & CO detector
+- [ ] Test garage door auto-reverse (2×4 flat on floor + photo-eye beam break) ([[Garage Door Maintenance|garage door]])
 - [ ] Glance at breaker panel — anything tripped?
 
 ## Spring (Mar–May) — wake the home up
@@ -81,6 +82,7 @@ The annual deep tasks: flush the water heater and inspect the [[GLOSSARY#Anode r
 - [ ] Check foundation cracks; monitor season to season
 - [ ] Inspect roof + flashing before snow
 - [ ] Store patio furniture; cover AC condenser if manufacturer recommends
+- [ ] Lubricate garage door (hinges, rollers, track, opener drive — lithium or silicone spray; never WD-40); run a balance test ([[Garage Door Maintenance|garage door]])
 ### "Fall back"
 - [ ] Replace smoke + CO detector batteries (2nd time)
 - [ ] Replace any detector >10 yr (date on back)

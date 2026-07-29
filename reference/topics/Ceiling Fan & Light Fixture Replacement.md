@@ -20,8 +20,8 @@ A properly installed fan does not wobble — wobble dynamically loads the box ev
 
 | Box type | Static fixture | Fan |
 |---|---|---|
-| Standard light box (not fan-rated) | up to 50 lb | ⛔ **None — never mount a fan** |
-| [[GLOSSARY#Fan-rated box (ceiling)|Fan-rated box]] (with brace) | up to 90–150 lb | up to 70 lb (brace/joist dependent) |
+| Standard light box (not fan-rated) | up to 50 lb (NEC 314.27(A) listed ceiling/paddle box) | ⛔ **None — never mount a fan** |
+| [[GLOSSARY#Fan-rated box (ceiling)|Fan-rated box]] (with brace) | up to 90–150 lb (manufacturer brace rating) | up to 70 lb (manufacturer brace rating; joist dependent) |
 
 **How to tell:**
 - Stamping: "For Fan Support" + weight rating (may need to pull light to see)

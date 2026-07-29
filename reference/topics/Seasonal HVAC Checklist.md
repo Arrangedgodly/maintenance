@@ -8,8 +8,8 @@
 - **Spring (~45 min):** replace [[GLOSSARY#Air filter|filter]], flush [[GLOSSARY#Condensate drain / drain line|condensate drain]], clear debris 2 ft around the outdoor unit, gently hose off the [[GLOSSARY#Condenser coil|condenser coil]] [[GLOSSARY#Fins|fins]] from inside out, straighten bent fins, confirm the [[GLOSSARY#Condenser pad|condenser pad]] is level, switch thermostat to COOL.
 - **Fall (~30 min):** replace filter, flush drain (a [[GLOSSARY#Heat pump|heat pump]] produces condensate both modes), clear leaves, verify HEAT. Gas burner work = **pro only**.
 - New skill: outdoor condenser care — clean [[GLOSSARY#Fins|fins]] with a garden hose (never a pressure washer — they shred), realign bent fins with a [[GLOSSARY#Fin comb (fin straightener)|fin comb]] sized to fins-per-inch, check the pad is level.
-- Your unit: **Carrier 24SPA630W003** — an **AC-only** [[GLOSSARY#Condenser coil|condenser]] (not a [[GLOSSARY#Heat pump|heat pump]]), 25 FPI coil, louvered WeatherArmor Ultra cabinet, Puron (R-410A). Heating is a separate system.
-- Fin comb must specifically cover **25 FPI** — most combs top out at ~20 FPI; check packaging.
+- Your unit: **Carrier 24SPA630W003** — an **AC-only** [[GLOSSARY#Condenser coil|condenser]] (not a [[GLOSSARY#Heat pump|heat pump]]), 20 FPI outdoor coil, louvered WeatherArmor Ultra cabinet, Puron (R-410A). Heating is a separate system.
+- Fin comb must cover **20 FPI** — within the range of most standard multi-sided combs; confirm on packaging.
 - Two-power-off rule before any panel work: pull the outdoor disconnect block AND flip the breaker; verify dead — the run capacitor holds a charge.
 - [[GLOSSARY#Refrigerant|Refrigerant]] = **pro only** (EPA-certified). Exterior coil + cabinet cleaning is the homeowner limit.
 - Tune-up coverage (the [[ACTION-ITEMS|pro side]]): electrical, refrigerant, coil deep-clean, combustion/heat exchanger, controls.
@@ -75,7 +75,7 @@ Crushed-over-large-area fins = pro job or coil replacement.
 [[GLOSSARY#Condenser pad|Condenser pad]] should be level. Frost heave/settling can tilt it over years → strains compressor. Noticeably tilted = call a pro to re-level.
 
 ## For your unit: Carrier 24SPA630W003
-Sources: [Carrier 24SPA6 product data](https://www.shareddocs.com/hvac/docs/1009/Public/0D/24SPA6-04PD.pdf) · [Carrier 24-25 series service manual](https://www.shareddocs.com/hvac/docs/1009/Public/07/24-25-2SM.pdf). Confirmed specs: **25 FPI** outdoor coil, louvered WeatherArmor Ultra steel coil guard, direct-drive propeller fan (¼ HP, 1100 RPM), Puron (R-410A), 2.5 ton / 30,000 Btuh, 16 SEER2.
+Sources: [Carrier 24SPA6 product data](https://www.shareddocs.com/hvac/docs/1009/Public/0D/24SPA6-04PD.pdf) · [Carrier 24-25 series service manual](https://www.shareddocs.com/hvac/docs/1009/Public/07/24-25-2SM.pdf). Confirmed specs: **20 FPI** outdoor coil, louvered WeatherArmor Ultra steel coil guard, direct-drive propeller fan (¼ HP, 1100 RPM), Puron (R-410A), 2.5 ton / 30,000 Btuh, 16 SEER2.
 
 > **Note:** the 24SPA is an **AC-only condenser**, not a heat pump. Heating is a separate system (likely a furnace) — confirm and build the fall checklist around it.
 
@@ -105,11 +105,11 @@ WeatherArmor Ultra = louvered steel panel protecting the coil. Basic fin cleanin
 
 > ⚠️ **Do not loosen the fan blade set screw** unless deliberately removing the blade. If the blade shifts on the shaft it can contact the fan orifice or coil guard and damage the unit. For coil cleaning only, leave blade attached to motor.
 
-### Your fin comb: 25 FPI
-Coil is **25 fins per inch** — finer than the old "8–14 FPI" rule of thumb.
-- Need a comb that specifically includes **25 FPI**. Most multi-sided combs top out at ~20 FPI — **check packaging before buying.**
-- Search "25 FPI fin comb" or "fin comb 25" — usually under $15. Newer "soft comb" / evaporator-style flexible combs cover the fine 25 FPI spacing.
-- Procedure unchanged: soapy water lubrication, engage teeth in straight fins beside the bend, a few fins at a time. At 25 FPI fins are closely spaced and delicate — go slow.
+### Your fin comb: 20 FPI
+Coil is **20 fins per inch** — at the upper end of the "8–14 FPI" residential rule of thumb but within range of most standard multi-sided combs.
+- A standard fin comb that reaches **20 FPI** covers it — confirm on the packaging before buying.
+- Search "fin comb" or "fin straightener" — usually under $15. Multi-sided combs include a progression of FPI teeth; the 20-FPI face is the one you'll use.
+- Procedure unchanged: soapy water lubrication, engage teeth in straight fins beside the bend, a few fins at a time. Fins are closely spaced — go slow.
 
 > ⚠️ **Refrigerant is pro-only.** Unit uses Puron (R-410A). Never open, crimp, or heat the copper refrigerant lines, or touch service valves. Exterior coil + cabinet cleaning only. Refrigerant work requires EPA certification.
 

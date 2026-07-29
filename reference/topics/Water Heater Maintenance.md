@@ -131,7 +131,7 @@ Rigid OEM rod = 39-1/8". Measure top-of-tank to ceiling. **Under ~4 ft of cleara
 - [ ] Visual: flue/vent intact to chimney; gas connection dry/smell-free; burner flame steady blue (sight glass); **flame arrestor screen at base clean** (vacuum gently — blocked screen trips spillage sensor → shutdown)
 - [ ] Drain pan (if present) — confirm drain line clear
 
-> **Warranty:** 6-yr tank. Serial BC54925100 — BW encodes manufacture date in serial (first letter = year code, next 2 digits = month). Check install date vs. warranty. Past warranty + heavy sediment / consumed anode = data for planning replacement before failure.
+> **Warranty:** 6-yr tank. Serial BC54925100 — Bradford White encodes the manufacture date as the **first two letters**: first letter = year, second letter = month (per [BW's date-code chart](https://www.bradfordwhite.com/bw-faq/how-to-read-the-serial-number-date-code-reference-chart/)). For this serial, **B** = year, **C** = March → manufactured March 2005 or March 2025 (the year letter repeats on a ~20-yr cycle; check against the chart for the exact year). Check install date vs. warranty. Past warranty + heavy sediment / consumed anode = data for planning replacement before failure.
 
 ## DIY / Pro boundary
 | DIY | Call a pro |

@@ -55,7 +55,7 @@ Two metal strips near the lint screen opening inside the drum. Rubbing alcohol o
 6. Long/unreachable run → dryer-vent cleaning brush kit (~$20–30) fed from either end, or hire a vent-cleaning service.
 7. Reconnect with clamp, push back, restore power.
 
-> ⚠️ **Duct material:** if vinyl or foil spiral-wire → replace with **rigid or semi-rigid aluminum** (~$10). Vinyl/foil sags, traps lint, isn't code-compliant for dryer exhaust. Most fire-prone option.
+> ⚠️ **Duct material:** if vinyl or foil spiral-wire → replace with **rigid or semi-rigid aluminum** (~$10). Vinyl/foil sags, traps lint, isn't code-compliant for dryer exhaust. Most fire-prone option. IRC M1502: the **transition duct** (dryer to wall) must be listed, ≤8 ft, 4" diameter; the **run** (wall to exterior cap) should be **rigid metal**, max **35 ft equivalent length** (subtract ~5 ft per 90° elbow). A run longer than 35 ft can't be cleaned into compliance and needs rerouting — a long run that won't stay clear is a fire hazard regardless of cleaning cadence.
 
 **Annual exterior check:** dryer running, go to the cap. Strong warm airflow = good. Weak = restriction. None = blockage — don't use dryer until cleared.
 
