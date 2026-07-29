@@ -66,6 +66,7 @@ plugins:
       wikilinks: true
       callouts: true
       mermaid: true
+      math: false
       parseTags: true
       parseArrows: true
       parseBlockReferences: true
@@ -92,7 +93,7 @@ plugins:
     enabled: true
     order: 70
   - source: "@quartz-community/latex"
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80

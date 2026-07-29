@@ -1,0 +1,14 @@
+diff --git a/node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js b/node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js
+index 708e6eb..77e59dc 100644
+--- a/node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js
++++ b/node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js
+@@ -24923,7 +24923,8 @@ var ObsidianFlavoredMarkdown = (userOpts) => {
+           highlights: opts.highlight,
+           comments: opts.comments,
+           tags: opts.parseTags,
+-          customTaskChars: opts.enableCheckbox
++          customTaskChars: opts.enableCheckbox,
++          math: opts.math
+         }
+       ]);
+       plugins.push(() => {
